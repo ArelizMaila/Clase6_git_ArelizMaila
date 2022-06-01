@@ -14,5 +14,7 @@ Revision del control de la versión
 
 #CARACTERISTICAS DEL PROGRAMA
 - Procesador Intel(R) Core(TM) i5-1035G1 @ 1.00GHz
-- 1.19GHz
+- 1.19GHz 
+- git Bash 
+- versión 2.36.1
 
